@@ -43,12 +43,3 @@ body {
 	color: #cd8800;
 	text-decoration: underline;
 }
-
-.content{
-	padding-top: 8%;
-	text-align: center;
-}
-
-.content > h1{
-	color: #eecc88;
-}
