@@ -66,20 +66,3 @@ body {
 .about p3 {
 	color: #ffe0f0
 }
-
-.content{
-	padding-top: 8%;
-	text-align: center;
-	font-size: 200%;
-	color: #eecc88;
-}
-
-.content > a{
-	color: #eecc88;
-	text-decoration: none;
-}
-
-.content > a:hover {
-	color: #ccaa66;
-	text-decoration: underline;
-}
