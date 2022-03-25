@@ -2,8 +2,9 @@ body {
 	margin: 0 auto;
 	padding: 0;
 	font-family: 'Consolas', serif;
-	background: url("res/bg_all.png") no-repeat center fixed;
-	background-size: cover;
+	background: url("res/foggy_16_9.png") no-repeat center fixed;
+	
+	background-size: 100vh 100vw;
 }
 
 .nav {
@@ -17,17 +18,17 @@ body {
 	padding-top: 2vh;
 	padding-bottom: 2vh;
 	display: table;
-	width: 100%;
+	width: 100vw;
 }
 
 .nav > li {
 	display: table-cell;
-	padding-right: 8vw;
+	padding-right: 20vw;
 }
 .nav > h1 { /*logo*/
 	text-decoration: none;
     text-align: left;
-    padding-left: 8vw;
+    padding-left: 12vw;
     display: table-cell;
     vertical-align: middle;
 }
