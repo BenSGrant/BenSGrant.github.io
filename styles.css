@@ -28,7 +28,7 @@ body {
 .nav > h1 { /*logo*/
 	text-decoration: none;
     text-align: left;
-    padding-left: 8vw;
+    padding-left: 12vw;
     display: table-cell;
     vertical-align: middle;
 }
