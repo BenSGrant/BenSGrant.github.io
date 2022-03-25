@@ -3,7 +3,8 @@ body {
 	padding: 0;
 	font-family: 'Consolas', serif;
 	background: url("res/foggy_16_9.png") no-repeat center fixed;
-	background-size: cover;
+	
+	background-size: 100vh 100vw;
 }
 
 .nav {
