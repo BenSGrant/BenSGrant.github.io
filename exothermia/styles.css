@@ -12,22 +12,22 @@ body {
 	list-style: none;				/*<li> in html*/
 	text-align: right;				/*puts <li> elements to the right*/
 	position: absolute;
-	right: 0%;
-	padding-right: 5%;
-	padding-top: 2%;
-	padding-bottom: 2%;
+	right: 0vw;
+	padding-right: 5vw;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
 	display: table;
 	width: 100%;
 }
 
 .nav > li {
 	display: table-cell;
-	padding-right: 8%;
+	padding-right: 8vw;
 }
 .nav > h1 { /*logo*/
 	text-decoration: none;
     text-align: left;
-    padding-left: 8%;
+    padding-left: 8vw;
     display: table-cell;
     vertical-align: middle;
 }
