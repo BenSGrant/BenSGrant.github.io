@@ -14,7 +14,7 @@ body {
 	text-align: right;				/*puts <li> elements to the right*/
 	position: absolute;
 	right: 0vw;
-	padding-right: 5vw;
+	padding-right: 0vw;
 	padding-top: 2vh;
 	padding-bottom: 2vh;
 	display: table;
