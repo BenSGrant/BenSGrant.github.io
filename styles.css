@@ -22,7 +22,7 @@ body {
 }
 
 .nav > li {
-	display: table-cell;
+	display: inline-block;
 	padding-right: 4vw;
 }
 .nav > h1 { /*logo*/
@@ -38,7 +38,7 @@ body {
 	text-align: right;
 	color: #efaa00;
 	font-size: 120%;
-	display: table-cell;
+	display: inline-block;
 }
 
 .nav > li > a:hover {
