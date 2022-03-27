@@ -15,7 +15,7 @@ body {
 	position: absolute;
 	right: 0vw;
 	padding-right: 0vw;
-	padding-top: 2vh;
+	padding-top: 3vh;
 	padding-bottom: 2vh;
 	display: table;
 	width: 100vw;
@@ -23,7 +23,7 @@ body {
 
 .nav > li {
 	display: inline-block;
-	padding-right: 4vw;
+	padding-right: 6vw;
 }
 .nav > h1 { /*logo*/
 	text-decoration: none;
