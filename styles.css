@@ -1,21 +1,21 @@
 body {
 	margin: 0 auto;
 	padding: 0;
-	font-family: 'Consolas', serif;
+	font-family: 'Georgia', serif;
 	background: url("res/foggy_16_9.png") no-repeat center fixed;
 	
 	background-size: 100vw 100vh;
 }
 
 .nav {
-	background-color: #444449;		/*navbar colour*/
-	color: #dedede;					/*text colour*/
+	background-color: #000936;		/*navbar colour*/
+	color: #ff7a21;					/*text colour*/
 	list-style: none;				/*<li> in html*/
 	text-align: right;				/*puts <li> elements to the right*/
 	position: absolute;
 	right: 0vw;
 	padding-right: 0vw;
-	padding-top: 3vh;
+	padding-top: 2vh;
 	padding-bottom: 2vh;
 	display: table;
 	width: 100vw;
@@ -23,7 +23,7 @@ body {
 
 .nav > li {
 	display: inline-block;
-	padding-right: 6vw;
+	padding-right: 4vw;
 	overflow-wrap: break-word;
 }
 .nav > h1 { /*logo*/
@@ -37,7 +37,7 @@ body {
 .nav > li > a { /*links*/
 	text-decoration: none;
 	text-align: right;
-	color: #efaa00;
+	color: #ff7a21;
 	font-size: 120%;
 	display: inline-block;
 }
@@ -46,3 +46,4 @@ body {
 	color: #cd8800;
 	text-decoration: underline;
 }
+
