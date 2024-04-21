@@ -8,13 +8,15 @@
     cursor: pointer;
     font-weight: bold;
     margin-right: 0.5vh;
-    transition: opacity 250ms;
+    transition: opacity 250ms, box-shadow 250ms;
 }
 .load:hover {
     opacity: 0.75;
+    box-shadow: 0 1vh 15px rgba(0,0,0, 0.15);
 }
 .load:active {
     opacity: 0.5;
+    box-shadow: 0 2vh 15px rgba(0,0,0,0.15);
 }
 .but2 {
     background-color: white;
