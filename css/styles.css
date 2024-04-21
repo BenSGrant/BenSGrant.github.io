@@ -54,4 +54,13 @@ body {
 	width: 10vh;
 	height: 8vh;
 	margin-left: 10vh;
+	border-color: rgb(50,50,200);
+	border-radius: 2vh;
+	transition: opacity 250ms, background-color 250ms;
+	font-weight: bold;
+	color: rgb(255,255,205);
+}
+.instalink > button:hover {
+	background-color: rgb(50,100,255);
+	opacity: 0.8;
 }
