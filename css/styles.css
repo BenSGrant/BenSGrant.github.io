@@ -48,6 +48,9 @@ body {
 	text-decoration: underline;
 }
 
-.soc-med-links > li {
-	
+
+.soc-med-links.instalink {
+	form {
+		padding-left: 10vw;
+	}
 }
