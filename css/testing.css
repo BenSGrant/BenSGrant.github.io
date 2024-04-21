@@ -27,13 +27,15 @@
     cursor: pointer;
     font-weight: bold;
     border-radius: 0.5vh;
-    transition: background-color 250ms;
+    transition: background-color 250ms, color 250ms;
     
 }
 .but2:hover {
     background-color: rgb(228,228,228);
+    color: rgb(0,135,225);
 }
 .but2:active {
     background-color: rgb(200,200,200);
+    color: rgb(0,110,200);
 }
  
