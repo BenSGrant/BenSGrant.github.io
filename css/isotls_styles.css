@@ -65,7 +65,7 @@ body {
 	text-align: right;
 	color: #ff7700;
 	font-size: 110%;
-	<!--overflow-wrap: break-word;-->
+	/* <!--overflow-wrap: break-word;--> */
 }
 
 .links p > a {
