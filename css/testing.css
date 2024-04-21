@@ -8,6 +8,7 @@
     cursor: pointer;
     font-weight: bold;
     margin-right: 0.5vh;
+    transition: opacity 250ms;
 }
 .load:hover {
     opacity: 0.75;
@@ -26,6 +27,7 @@
     cursor: pointer;
     font-weight: bold;
     border-radius: 0.5vh;
+    transition: background-color 250ms;
     
 }
 .but2:hover {
