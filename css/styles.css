@@ -2,7 +2,7 @@ body {
 	margin: 0 auto;
 	padding: 0;
 	font-family: 'Georgia', serif;
-	background: url("res/foggy_16_9.png") no-repeat center fixed;
+	background: url("../res/foggy_16_9.png") no-repeat center fixed;
 	
 	background-size: 100vw 100vh;
 }
