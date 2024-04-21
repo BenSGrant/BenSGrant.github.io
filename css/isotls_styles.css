@@ -19,6 +19,7 @@ body {
 	padding-bottom: 2vh;
 	display: table;
 	width: 100vw;
+	cursor: pointer;
 }
 
 .nav > li {
@@ -52,7 +53,7 @@ body {
 	text-align: center;
 	color: #ff7700;
 	font-size: 125%;
-	<!--overflow-wrap: break-word;-->
+	/* overflow-wrap: break-word; */
 }
 
 .about p {

@@ -25,6 +25,7 @@ body {
 	display: inline-block;
 	padding-right: 4vw;
 	overflow-wrap: break-word;
+	cursor: pointer;
 }
 .nav > h1 { /*logo*/
 	text-decoration: none;
