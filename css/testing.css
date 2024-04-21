@@ -1,4 +1,7 @@
 button {
     background-color: red;
-
+    color: whitesmoke;
+    border: none;
+    height: 8%;
+    width: 8%;
 }
