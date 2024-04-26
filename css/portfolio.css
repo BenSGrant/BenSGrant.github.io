@@ -49,9 +49,29 @@ body {
 }
 
 .projects {
-	padding-top: 15vh;
-	padding-left: 20vw;
-	text-align: left;
+	padding-top: 10vh;
+	padding-left: 0vw;
+	position: relative;
+	left: 20vw;
+	top: 5vh;
+	text-align: center;
+	width: 60vw;
+	height: 100vh;
 	overflow-wrap: break-word;
+	background-color: rgb(200,200,200);
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	z-index: -1;
+}
 
+.projects > div {
+	background-color: white;
+	position: relative;
+	left: 2%;
+	height: 50px;
+	width: 96%;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: black;
 }
