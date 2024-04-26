@@ -48,3 +48,10 @@ body {
 	text-decoration: underline;
 }
 
+.projects {
+	padding-top: 15vh;
+	padding-left: 20vw;
+	text-align: left;
+	overflow-wrap: break-word;
+
+}
