@@ -85,3 +85,9 @@ body {
 .projects > div > li > a:hover {
 	color: rgb(0,0,150);
 }
+.projects > div > p {
+	font-size: small;
+	text-align: right;
+	position: relative;
+	right:2%;
+}
