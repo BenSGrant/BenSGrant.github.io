@@ -1,3 +1,20 @@
+.about {
+	padding-top: 16vh;
+	text-align: center;
+	color: #222222;
+	font-size: 125%;
+	/*overflow-wrap: break-word;*/
+}
+
+.about p {
+padding-top: 20vh;
+	color: #ffffff;
+}
+
+about a {
+	color: #ffffff;
+}
+
 body {
 	margin: 0 auto;
 	padding: 0;
