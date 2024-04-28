@@ -11,8 +11,17 @@ padding-top: 20vh;
 	color: #ffffff;
 }
 
-about a {
+.about a {
 	color: #ffffff;
+}
+
+
+.downloadContent {
+	padding-top: 20vh;
+	text-align: center;
+	color: #ff7700;
+	font-size: 125%;
+	overflow-wrap: break-word;
 }
 
 body {
