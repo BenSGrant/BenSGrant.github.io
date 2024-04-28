@@ -77,12 +77,14 @@ body {
 	font-family: "Trebuchet MS", sans-serif;
 }
 
-.projects > div > li > a {
+.projects > div > a {
 	color: rgb(0,0,200);
 }
-.projects > div > li > a:hover {
-	color: rgb(0,0,150);
+.projects > div > a:hover {
+	color: rgb(50,0,100);
 }
+
+
 .projects > div > p {
 	font-size: small;
 	text-align: right;
