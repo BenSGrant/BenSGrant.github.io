@@ -6,13 +6,17 @@
 	/*overflow-wrap: break-word;*/
 }
 
-.about p {
-padding-top: 20vh;
+.about > p {
+	padding-top: 20vh;
 	color: #ffffff;
 }
 
-.about a {
-	color: #ffffff;
+.about > p > a {
+	color: rgb(0,0,250);
+}
+
+.about > p > a:hover {
+	color: rgb(50,0,150);
 }
 
 
